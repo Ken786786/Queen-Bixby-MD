@@ -19,30 +19,30 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94723043748']
-global.premium = ['94723043748']
-global.ownernomer = ['94711421243']
-global.ownername = 'Dark Alpha'
-global.botname = 'Bixby MD'
-global.footer = ' Qᴜᴇᴇɴ ʙɪxʙʏ ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ.'
-global.ig = 'https://github.com/nexusNw'
-global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
-global.author = '🐦Thinura '
+global.owner = ['919015286428','918287855075']
+global.premium = ['919015286428','918287855075']
+global.ownernomer = ['919015286428','918287855075']
+global.ownername = 'Deepak 🤗'
+global.botname = 'GAPPU ❤️‍🔥 MD'
+global.footer = ' GAPPU 🔥 ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ.'
+global.ig = 'https://github.com/_g.a.p.p.u_'
+global.region = 'India, Bihar'
+global.sc = 'https://github.com/DEEPAK👻'
+global.myweb = 'https://youtube.com/channel/UCvCdv4QolnO0WQ'
+global.packname = 'GAPPU ❤️‍🔥 MD'
+global.author = 'DEEPAK 🤗 '
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '🚢'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'ටිකක් ඉන්ට...',
+    admin: 'This Feature Is Only For 😎 Admin!',
+    botAdmin: 'Bot Must Be Admin 😁 First!',
+    owner: 'This Feature Is Only For 😹 Owner!',
+    group: 'Feature Used Only For 😌 Groups!',
+    private: 'Features Used Only For Private 😉 Chat!',
+    bot: 'This Feature Is Only For 🤟 Bot',
+    wait: 'Please Wait Gappu bot processing...',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
@@ -59,7 +59,7 @@ global.mess = {
    umpanawal: 5,
    potionawal: 1
 }
-global.thumb = fs.readFileSync('./GojoMedia/djt.jpg')
+global.thumb = fs.readFileSync('./BixbyMedia/djt.jpg')
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
